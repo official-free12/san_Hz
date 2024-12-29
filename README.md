@@ -1,0 +1,6 @@
+# 三进三出，股权拆分，三盘分盘循环拆分盘系统源码，全新改版
+
+<br>售前须知<br>example.com，可复制性高，一旦发货，不接收退货退款；<br>example.com，所以目前不支持任何技术服务；<br>example.com，可联系店主：<br>商讨好合适的手工服务费，即可替您提供技术支持<br>example.com，不含安装费~<br>2016年三盘分盘循环拆分系统源码，全新改版新增功能，更加完善！数字运营必备！2016拆分年，市场的进行已经证实了目前在市面上可以持久可以不伤人脉的程序目前来讲只有拆分！DGC、沃克的成功足以让后来者继续在网上捞金！<br>　　<br>　　本程序是拆分鼻祖，市面上大部分盘都是从本程序改良而来！<br>　　<br>　　机会难得！<br>　　<br>　　源码具有可复制性，一经售出，概不退还！拍之前请看好！<br>　　<br>　　另外本店提供防盘业务，只要你提供盘，都可以！！！！<br>　　<br>　　注，仅供参考学习，直销类的源码容易被误报，搭建之前请先关闭杀毒不保证！为了不必要的纠纷本源码不保证存无木马，病毒。完整运行等问题，源码与演示站一样，介意的亲误拍<br>　　<br>　　亲测环境支持：example.com+MySql<br>　　<br>　　网  址：http://example.com/admin<br>　　<br>　　后台账号：admin 密码：admin<br>　　<br>　　顶层前台测试：一级密码：111111 二级密码：222222<br>　　<br>　　前台测试会员：CN29512 一级密码：111111 二级密码：222222<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/fCOBQ" style="color: red;">https://mega-file.org/fCOBQ</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
